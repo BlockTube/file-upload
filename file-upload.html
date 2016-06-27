@@ -24,6 +24,15 @@ Example:
   <style type="text/css">
     :host {
         display: inline-block;
+        width: 100%;
+        height: 100%;
+    }
+
+    #button {
+      width: 100%;
+      height: 100%;
+      @apply(--layout-vertical);
+      @apply(--layout-center-center);    
     }
 
     .enabled {
@@ -96,13 +105,13 @@ Example:
     paper-progress[error] {
       --paper-progress-active-color: #f40303;
     }
+
+
   </style>
 
   <template>
-    <div>
-      <paper-button id="button" icon="file-upload" class="blue" on-click="_fileClick">
+    <div id="button" on-click="_fileClick">
         <content></content>
-      </paper-button>
       <div id='UploadBorder'>
         <div id="dropArea" hidden$="{{!_shownDropText}}">{{dropText}}</div>
         <template is="dom-repeat" items="{{files}}">
@@ -123,6 +132,7 @@ Example:
         </template>
       </div>
     </div>
+
     <input type="file" id="fileInput" on-change="_fileChange" hidden multiple="{{multi}}" accept="{{accept}}">
     <!--<paper-toast id="toastSuccess" text="File uploaded successfully!"></paper-toast>
     <paper-toast id="toastFail" text="Error uploading file!"></paper-toast>-->

@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"eth",
+				"ethbalance"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"collp",
+				"collapseopen"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"input",
+				"inputcolor"
+			],
+			[
+				"lab",
+				"labelsmin"
+			],
+			[
+				"font",
+				"fontsize"
+			],
+			[
+				"transl",
+				"translate-nocontent"
+			],
+			[
+				"tran",
+				"translate-basic"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"edit",
+				"editName"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"over",
+				"overflow-y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/benadriaenssen/Sites/locals-elements/locals-store/locals-store.html",
+			"settings":
+			{
+				"buffer_size": 6061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/benadriaenssen/Sites/locals-elements/locals-object/locals-object.html",
+			"settings":
+			{
+				"buffer_size": 16006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/benadriaenssen/Sites/locals-elements/locals-object/locals-dataobject.html",
+			"settings":
+			{
+				"buffer_size": 19386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/benadriaenssen/Sites/locals-elements/locals-style/locals-style.html",
+			"settings":
+			{
+				"buffer_size": 1454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/benadriaenssen/Sites/locals-elements/locals-style/locals-typography.html",
+			"settings":
+			{
+				"buffer_size": 4889,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/benadriaenssen/Sites/locals-app/app",
+		"/Users/benadriaenssen/Sites/locals-app/app/elements",
+		"/Users/benadriaenssen/Sites/locals-app/app/elements/locals-newuser",
+		"/Users/benadriaenssen/Sites/locals-app/app/elements/locals-user",
+		"/Users/benadriaenssen/Sites/locals-elements",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-avatar",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-button",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-button/demo",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-iconset",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-iconset/demo",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-object",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-objectdetail",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-objectrender",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-residence",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-store",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-style"
+	],
+	"file_history":
+	[
+		"/Users/benadriaenssen/Sites/locals-elements/locals-object/locals-objectlayer.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-button/demo/index.html",
+		"/Users/benadriaenssen/Sites/locals-app/app/elements/locals-newuser/locals-newuser.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-object/locals-object.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-object/locals-dataobject.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-residence/locals-residence.html",
+		"/Users/benadriaenssen/Sites/locals-app/app/elements/locals-user/locals-user.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-objectrender/locals-objectrender.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-button/locals-button.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-iconset/locals-iconset.html",
+		"/Users/benadriaenssen/Sites/locals-app/app/elements/locals-user/locals-home.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-iconset/demo/index.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-store/locals-store.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-style/locals-color.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-avatar/locals-avatar.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-objectdetail/locals-objectdetail.html",
+		"/Users/benadriaenssen/Sites/locals-elements/locals-residence/README.md",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-home/bt-home.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/styles/app-theme.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-style/bt-color.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/elements.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-listitem/bt-listitem.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-avataricon/bt-avataricon.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-profile/bt-profile.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-style/bt-typography.html",
+		"/Users/benadriaenssen/Sites/file-upload/file-upload.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-input/bt-input.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-logo/images/bt-logo-altshort.svg",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-logo/bt-logo.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-logo/images/bt-logo-alt.svg",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-upload/bt-upload.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-button/bt-button.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/index.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-input/bt-textarea.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/bower_components/paper-input/paper-input.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.3/app/elements/bt-style/bt-style.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.2/app/index.html",
+		"/Users/benadriaenssen/Sites/blocktube/blocktube-client.0.2/app/styles/app-theme.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_getValue",
+			"h1",
+			"locals-store",
+			"store",
+			"this.object",
+			"detail",
+			"toDetail",
+			"add",
+			"object",
+			"addbtn",
+			"init",
+			"store",
+			"uploadcanvas",
+			"uploader",
+			"choose",
+			"newvideo",
+			"    object-fit: contain;\n",
+			"video {\n    object-fit: contain;\n}",
+			"videoland",
+			"pipe",
+			"ethb",
+			".account",
+			"account",
+			".account",
+			"account",
+			"eth",
+			"ether",
+			"start",
+			"Show",
+			"paper-toolbar",
+			"coinsbartotal",
+			"span",
+			".flex",
+			"debugger",
+			"ava",
+			"avatar",
+			"tool",
+			"usertags",
+			"4px 0px;",
+			"4px;",
+			"34",
+			"fontcolor",
+			"color",
+			"'40px'",
+			"40px",
+			"50%",
+			"userinfo",
+			"40",
+			"userinfonam",
+			"tags",
+			"avatar",
+			"usertags",
+			"edit",
+			"usertags",
+			"userava",
+			"120px",
+			"big",
+			".account",
+			"edit",
+			".upload",
+			"upload",
+			"whitesp",
+			"Title",
+			"collapseco",
+			"blue",
+			"button",
+			"bt-bu",
+			"darkgreen",
+			"name",
+			"bind-value",
+			"autofocus",
+			"1px solid var(--bt-grey2)",
+			"input",
+			"--autogrow-text",
+			"bt-input",
+			"input",
+			"color",
+			"uploader",
+			"paper",
+			"button",
+			"paper",
+			"char-counter maxlength=\"88\"",
+			"upload",
+			"180",
+			"7deg",
+			"upload",
+			"toggleupload",
+			"toggleUpload",
+			"paper-input",
+			"div class=\"padding\"",
+			"confu",
+			"outline",
+			"_outline",
+			"underline",
+			"confirm",
+			"userinfoname",
+			"outline",
+			"edit",
+			"div",
+			"--input-color",
+			"infocus",
+			"darkgrey",
+			"locals",
+			"bt-in",
+			"_color",
+			"--input-color",
+			"bt-input",
+			"red",
+			"inputvalue",
+			"translateY(0%) translateX(10px) translateY(20px) scale(1.35)",
+			"translateY(0%) translateX(0px) scale(1)",
+			"transla",
+			"transl",
+			"lato-reg)",
+			"color",
+			"inputcolor",
+			"bind-va",
+			"font-size",
+			"h1",
+			"opensans",
+			"paper",
+			"locals",
+			"edit",
+			"coinstotal",
+			"coi",
+			"ora",
+			"bt-b",
+			"bt-but"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/benadriaenssen/Sites/locals-app"
+		},
+		{
+			"path": "/Users/benadriaenssen/Sites/locals-elements"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/benadriaenssen/Sites/locals-elements/locals-store/locals-store.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3509,
+								3509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/benadriaenssen/Sites/locals-elements/locals-object/locals-object.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 793.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/benadriaenssen/Sites/locals-elements/locals-object/locals-dataobject.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5031,
+								5031
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2971.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/benadriaenssen/Sites/locals-elements/locals-style/locals-style.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/benadriaenssen/Sites/locals-elements/locals-style/locals-typography.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 948.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
